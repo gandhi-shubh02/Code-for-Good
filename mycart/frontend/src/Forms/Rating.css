@@ -1,0 +1,11 @@
+.Hocontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background-color: rgb(151, 147, 147);
+    margin-top: 100px;
+    width: 75%;
+    margin: 100px auto;
+}
